@@ -7,7 +7,7 @@ const server = http.createServer((req, res) => {
     res.write(`
         <html>
         <head>
-            <title>DevOps Project</title>
+            <title>DevOps Docker  Project</title>
             <style>
                 body {
                     font-family: Arial, sans-serif;
@@ -40,7 +40,7 @@ const server = http.createServer((req, res) => {
             <div class="card">
                 <h1> DevOps Project Live</h1>
                 <p>Hello from Jenkins + Docker + AWS EC2 </p>
-                <p>Status: <b style="color:lightgreen;">Running Successfully ✅</b></p>
+                <p>Status: <b style="color:lightgreen;">Running Successfully </b></p>
                 <div class="footer">
                     <p>Powered by Node.js | Jenkins | Docker | AWS</p>
                 </div>
