@@ -7,7 +7,7 @@ const server = http.createServer((req, res) => {
     res.write(`
         <html>
         <head>
-            <title>DevOps Docker  Project Datapro</title>
+            <title>DevOps Docker  Project javeed</title>
             <style>
                 body {
                     font-family: Arial, sans-serif;
